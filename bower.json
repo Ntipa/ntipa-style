@@ -1,0 +1,25 @@
+{
+  "name": "ntipa-style",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Ntipa/ntipa-style",
+  "authors": [
+    "tindaro tornabene <tindaro.tornabene@gmail.com>"
+  ],
+  "description": "stili css icone per ntipa",
+  "main": "style.css",
+  "keywords": [
+    "style",
+    "ntipa",
+    "css",
+    "icon",
+    "html5"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

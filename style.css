@@ -1,0 +1,381 @@
+@font-face {
+	font-family: 'ntipafont';
+	src:url('fonts/ntipafont.eot?-nkpt1g');
+	src:url('fonts/ntipafont.eot?#iefix-nkpt1g') format('embedded-opentype'),
+		url('fonts/ntipafont.woff?-nkpt1g') format('woff'),
+		url('fonts/ntipafont.ttf?-nkpt1g') format('truetype'),
+		url('fonts/ntipafont.svg?-nkpt1g#ntipafont') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="nf-"], [class*=" nf-"] {
+	font-family: 'ntipafont';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.nf-aggiorna:before {
+	content: "\e600";
+}
+
+.nf-aggiungi-cartella:before {
+	content: "\e601";
+}
+
+.nf-aggiungi:before {
+	content: "\e602";
+}
+
+.nf-allegati:before {
+	content: "\e603";
+}
+
+.nf-amministrazione:before {
+	content: "\e604";
+}
+
+.nf-anno-registro:before {
+	content: "\e605";
+}
+
+.nf-annulla-tutto:before {
+	content: "\e606";
+}
+
+.nf-annulla:before {
+	content: "\e607";
+}
+
+.nf-anteprime:before {
+	content: "\e608";
+}
+
+.nf-apri-modifica:before {
+	content: "\e609";
+}
+
+.nf-attivita:before {
+	content: "\e60a";
+}
+
+.nf-audit:before {
+	content: "\e60b";
+}
+
+.nf-azioni:before {
+	content: "\e60c";
+}
+
+.nf-cancellazione:before {
+	content: "\e60d";
+}
+
+.nf-cerca-fascicolo:before {
+	content: "\e60e";
+}
+
+.nf-cerca:before {
+	content: "\e60f";
+}
+
+.nf-certificati:before {
+	content: "\e610";
+}
+
+.nf-cestino:before {
+	content: "\e611";
+}
+
+.nf-check:before {
+	content: "\e612";
+}
+
+.nf-chiudi:before {
+	content: "\e613";
+}
+
+.nf-condividi:before {
+	content: "\e614";
+}
+
+.nf-conversazione:before {
+	content: "\e615";
+}
+
+.nf-copia:before {
+	content: "\e616";
+}
+
+.nf-crea-fascicolo:before {
+	content: "\e617";
+}
+
+.nf-creazione:before {
+	content: "\e618";
+}
+
+.nf-data-protocollo:before {
+	content: "\e619";
+}
+
+.nf-deseleziona:before {
+	content: "\e61a";
+}
+
+.nf-down:before {
+	content: "\e61b";
+}
+
+.nf-download:before {
+	content: "\e61c";
+}
+
+.nf-fascicolo:before {
+	content: "\e61d";
+}
+
+.nf-filtro:before {
+	content: "\e61e";
+}
+
+.nf-gestione-pec:before {
+	content: "\e61f";
+}
+
+.nf-grafico:before {
+	content: "\e620";
+}
+
+.nf-griglia:before {
+	content: "\e621";
+}
+
+.nf-help:before {
+	content: "\e622";
+}
+
+.nf-home:before {
+	content: "\e623";
+}
+
+.nf-impostazioni:before {
+	content: "\e624";
+}
+
+.nf-incolla:before {
+	content: "\e625";
+}
+
+.nf-info:before {
+	content: "\e626";
+}
+
+.nf-left:before {
+	content: "\e627";
+}
+
+.nf-lista:before {
+	content: "\e628";
+}
+
+.nf-log-out:before {
+	content: "\e629";
+}
+
+.nf-metrics:before {
+	content: "\e62a";
+}
+
+.nf-modifica:before {
+	content: "\e62b";
+}
+
+.nf-notifiche:before {
+	content: "\e62c";
+}
+
+.nf-occhio:before {
+	content: "\e62d";
+}
+
+.nf-ordinamento-down:before {
+	content: "\e62e";
+}
+
+.nf-ordinamento-gen-down:before {
+	content: "\e62f";
+}
+
+.nf-ordinamento-gen-up:before {
+	content: "\e630";
+}
+
+.nf-ordinamento-up:before {
+	content: "\e631";
+}
+
+.nf-pagina:before {
+	content: "\e632";
+}
+
+.nf-password:before {
+	content: "\e633";
+}
+
+.nf-pdf:before {
+	content: "\e634";
+}
+
+.nf-pec-letta:before {
+	content: "\e635";
+}
+
+.nf-pec:before {
+	content: "\e636";
+}
+
+.nf-preferito:before {
+	content: "\e637";
+}
+
+.nf-proprieta:before {
+	content: "\e638";
+}
+
+.nf-proprietario:before {
+	content: "\e639";
+}
+
+.nf-protocollo-emergenza:before {
+	content: "\e63a";
+}
+
+.nf-protocollo-entrata:before {
+	content: "\e63b";
+}
+
+.nf-protocollo-interno:before {
+	content: "\e63c";
+}
+
+.nf-protocollo-uscita:before {
+	content: "\e63d";
+}
+
+.nf-protocollo:before {
+	content: "\e63e";
+}
+
+.nf-qr:before {
+	content: "\e63f";
+}
+
+.nf-repertori:before {
+	content: "\e640";
+}
+
+.nf-report-anno:before {
+	content: "\e641";
+}
+
+.nf-report-giorno:before {
+	content: "\e642";
+}
+
+.nf-report-mese:before {
+	content: "\e643";
+}
+
+.nf-revisioni:before {
+	content: "\e644";
+}
+
+.nf-ricerca-avanzata:before {
+	content: "\e645";
+}
+
+.nf-right:before {
+	content: "\e646";
+}
+
+.nf-rinomina:before {
+	content: "\e647";
+}
+
+.nf-salva-db:before {
+	content: "\e648";
+}
+
+.nf-salva:before {
+	content: "\e649";
+}
+
+.nf-scrittura:before {
+	content: "\e64a";
+}
+
+.nf-seleziona:before {
+	content: "\e64b";
+}
+
+.nf-solr:before {
+	content: "\e64c";
+}
+
+.nf-sposta:before {
+	content: "\e64d";
+}
+
+.nf-storico:before {
+	content: "\e64e";
+}
+
+.nf-struttura:before {
+	content: "\e64f";
+}
+
+.nf-tag:before {
+	content: "\e650";
+}
+
+.nf-taglia:before {
+	content: "\e651";
+}
+
+.nf-testo:before {
+	content: "\e652";
+}
+
+.nf-unlock:before {
+	content: "\e653";
+}
+
+.nf-up:before {
+	content: "\e654";
+}
+
+.nf-upload-db:before {
+	content: "\e655";
+}
+
+.nf-upload:before {
+	content: "\e656";
+}
+
+.nf-user:before {
+	content: "\e657";
+}
+
+.nf-worklist:before {
+	content: "\e658";
+}
+
