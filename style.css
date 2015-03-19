@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'ntipafont';
-	src:url('fonts/ntipafont.eot?-8hgowg');
-	src:url('fonts/ntipafont.eot?#iefix-8hgowg') format('embedded-opentype'),
-		url('fonts/ntipafont.woff?-8hgowg') format('woff'),
-		url('fonts/ntipafont.ttf?-8hgowg') format('truetype'),
-		url('fonts/ntipafont.svg?-8hgowg#ntipafont') format('svg');
+	src:url('fonts/ntipafont.eot?-2fzdzo');
+	src:url('fonts/ntipafont.eot?#iefix-2fzdzo') format('embedded-opentype'),
+		url('fonts/ntipafont.woff?-2fzdzo') format('woff'),
+		url('fonts/ntipafont.ttf?-2fzdzo') format('truetype'),
+		url('fonts/ntipafont.svg?-2fzdzo#ntipafont') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -21,6 +21,30 @@
 	/* Better Font Rendering =========== */
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+}
+
+.nf-letto:before {
+	content: "\e6f3";
+}
+
+.nf-elimina-conversazione:before {
+	content: "\e6f4";
+}
+
+.nf-aggiungi-conversazione:before {
+	content: "\e6f5";
+}
+
+.nf-sottrai:before {
+	content: "\e6f6";
+}
+
+.nf-or:before {
+	content: "\e6f7";
+}
+
+.nf-and:before {
+	content: "\e6f8";
 }
 
 .nf-tel:before {
