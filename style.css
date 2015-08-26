@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'ntipafont';
-	src:url('fonts/ntipafont.eot?-qvq5lk');
-	src:url('fonts/ntipafont.eot?#iefix-qvq5lk') format('embedded-opentype'),
-		url('fonts/ntipafont.woff?-qvq5lk') format('woff'),
-		url('fonts/ntipafont.ttf?-qvq5lk') format('truetype'),
-		url('fonts/ntipafont.svg?-qvq5lk#ntipafont') format('svg');
+	src:url('fonts/ntipafont.eot?iigfqf');
+	src:url('fonts/ntipafont.eot?#iefixiigfqf') format('embedded-opentype'),
+		url('fonts/ntipafont.ttf?iigfqf') format('truetype'),
+		url('fonts/ntipafont.woff?iigfqf') format('woff'),
+		url('fonts/ntipafont.svg?iigfqf#ntipafont') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,22 +23,212 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.nf-ntipa-desk_b .path1:before {
+	content: "\e708";
+	color: rgb(152, 181, 33);
+}
+.nf-ntipa-desk_b .path2:before {
+	content: "\e709";
+	margin-left: -3.3837890625em;
+	color: rgb(207, 202, 14);
+}
+.nf-ntipa-desk_b .path3:before {
+	content: "\e70a";
+	margin-left: -3.3837890625em;
+	color: rgb(182, 9, 143);
+}
+.nf-ntipa-desk_b .path4:before {
+	content: "\e70b";
+	margin-left: -3.3837890625em;
+	color: rgb(0, 169, 157);
+}
+.nf-ntipa-desk_b .path5:before {
+	content: "\e70c";
+	margin-left: -3.3837890625em;
+	color: rgb(217, 213, 62);
+}
+.nf-ntipa-desk_b .path6:before {
+	content: "\e70d";
+	margin-left: -3.3837890625em;
+	color: rgb(207, 202, 14);
+}
+.nf-ntipa-desk_b .path7:before {
+	content: "\e70e";
+	margin-left: -3.3837890625em;
+	color: rgb(204, 82, 176);
+}
+.nf-ntipa-desk_b .path8:before {
+	content: "\e70f";
+	margin-left: -3.3837890625em;
+	color: rgb(159, 46, 160);
+}
+.nf-ntipa-desk_b .path9:before {
+	content: "\e710";
+	margin-left: -3.3837890625em;
+	color: rgb(193, 108, 188);
+}
+.nf-ntipa-desk_b .path10:before {
+	content: "\e711";
+	margin-left: -3.3837890625em;
+	color: rgb(179, 92, 116);
+}
+.nf-ntipa-desk_b .path11:before {
+	content: "\e712";
+	margin-left: -3.3837890625em;
+	color: rgb(102, 102, 102);
+}
+.nf-ntipa-desk_b .path12:before {
+	content: "\e713";
+	margin-left: -3.3837890625em;
+	color: rgb(102, 102, 102);
+}
+.nf-ntipa-desk_b .path13:before {
+	content: "\e714";
+	margin-left: -3.3837890625em;
+	color: rgb(102, 102, 102);
+}
+.nf-ntipa-desk_b .path14:before {
+	content: "\e715";
+	margin-left: -3.3837890625em;
+	color: rgb(102, 102, 102);
+}
+.nf-ntipa-desk_b .path15:before {
+	content: "\e716";
+	margin-left: -3.3837890625em;
+	color: rgb(102, 102, 102);
+}
+.nf-ntipa-desk_b .path16:before {
+	content: "\e717";
+	margin-left: -3.3837890625em;
+	color: rgb(152, 181, 33);
+}
+.nf-ntipa-desk_b .path17:before {
+	content: "\e718";
+	margin-left: -3.3837890625em;
+	color: rgb(152, 181, 33);
+}
+.nf-ntipa-desk_b .path18:before {
+	content: "\e719";
+	margin-left: -3.3837890625em;
+	color: rgb(152, 181, 33);
+}
+.nf-ntipa-desk_b .path19:before {
+	content: "\e71a";
+	margin-left: -3.3837890625em;
+	color: rgb(152, 181, 33);
+}
+.nf-ntipa-desk_a .path1:before {
+	content: "\e71b";
+	color: rgb(102, 102, 102);
+}
+.nf-ntipa-desk_a .path2:before {
+	content: "\e71c";
+	margin-left: -2.123046875em;
+	color: rgb(102, 102, 102);
+}
+.nf-ntipa-desk_a .path3:before {
+	content: "\e71d";
+	margin-left: -2.123046875em;
+	color: rgb(102, 102, 102);
+}
+.nf-ntipa-desk_a .path4:before {
+	content: "\e71e";
+	margin-left: -2.123046875em;
+	color: rgb(102, 102, 102);
+}
+.nf-ntipa-desk_a .path5:before {
+	content: "\e71f";
+	margin-left: -2.123046875em;
+	color: rgb(102, 102, 102);
+}
+.nf-ntipa-desk_a .path6:before {
+	content: "\e720";
+	margin-left: -2.123046875em;
+	color: rgb(152, 181, 33);
+}
+.nf-ntipa-desk_a .path7:before {
+	content: "\e721";
+	margin-left: -2.123046875em;
+	color: rgb(152, 181, 33);
+}
+.nf-ntipa-desk_a .path8:before {
+	content: "\e722";
+	margin-left: -2.123046875em;
+	color: rgb(152, 181, 33);
+}
+.nf-ntipa-desk_a .path9:before {
+	content: "\e723";
+	margin-left: -2.123046875em;
+	color: rgb(152, 181, 33);
+}
+.nf-ntipa-desk_a .path10:before {
+	content: "\e724";
+	margin-left: -2.123046875em;
+	color: rgb(152, 181, 33);
+}
+.nf-ntipa-desk_a .path11:before {
+	content: "\e725";
+	margin-left: -2.123046875em;
+	color: rgb(207, 202, 14);
+}
+.nf-ntipa-desk_a .path12:before {
+	content: "\e726";
+	margin-left: -2.123046875em;
+	color: rgb(182, 9, 143);
+}
+.nf-ntipa-desk_a .path13:before {
+	content: "\e727";
+	margin-left: -2.123046875em;
+	color: rgb(0, 169, 157);
+}
+.nf-ntipa-desk_a .path14:before {
+	content: "\e728";
+	margin-left: -2.123046875em;
+	color: rgb(217, 213, 62);
+}
+.nf-ntipa-desk_a .path15:before {
+	content: "\e729";
+	margin-left: -2.123046875em;
+	color: rgb(207, 202, 14);
+}
+.nf-ntipa-desk_a .path16:before {
+	content: "\e72a";
+	margin-left: -2.123046875em;
+	color: rgb(204, 82, 176);
+}
+.nf-ntipa-desk_a .path17:before {
+	content: "\e72b";
+	margin-left: -2.123046875em;
+	color: rgb(159, 46, 160);
+}
+.nf-ntipa-desk_a .path18:before {
+	content: "\e72c";
+	margin-left: -2.123046875em;
+	color: rgb(193, 108, 188);
+}
+.nf-ntipa-desk_a .path19:before {
+	content: "\e72d";
+	margin-left: -2.123046875em;
+	color: rgb(179, 92, 116);
+}
+.nf-ellipsis:before {
+	content: "\e706";
+}
+.nf-link:before {
+	content: "\e707";
+}
 .nf-elenco-conversazioni:before {
 	content: "\e6f7";
 }
-
 .nf-aggiungi-conversazione2:before {
 	content: "\e6f8";
 }
-
 .nf-or:before {
 	content: "\e704";
 }
-
 .nf-and:before {
 	content: "\e705";
 }
-
 .nf-ntipa-box .path1:before {
 	content: "\e603";
 	color: rgb(12, 119, 184);
@@ -108,7 +298,6 @@
 	margin-left: -3.18359375em;
 	color: rgba(0, 153, 204, 0.2);
 }
-
 .nf-ntipa-register .path1:before {
 	content: "\e666";
 	color: rgb(236, 103, 39);
@@ -213,7 +402,6 @@
 	margin-left: -4.0205078125em;
 	color: rgba(243, 147, 35, 0.6);
 }
-
 .nf-ntipa-manage .path1:before {
 	content: "\e67b";
 	color: rgb(255, 255, 255);
@@ -308,7 +496,6 @@
 	margin-left: -4.28125em;
 	color: rgb(78, 86, 162);
 }
-
 .nf-ntipa-logo .path1:before {
 	content: "\e68e";
 	color: rgba(0, 148, 191, 0.4);
@@ -358,7 +545,6 @@
 	margin-left: -2.8232421875em;
 	color: rgb(0, 77, 119);
 }
-
 .nf-ntipa-street .path1:before {
 	content: "\e698";
 	color: rgb(255, 255, 255);
@@ -453,7 +639,6 @@
 	margin-left: -3.8330078125em;
 	color: rgb(223, 168, 3);
 }
-
 .nf-ntipa-garden .path1:before {
 	content: "\e6ab";
 	color: rgb(255, 255, 255);
@@ -548,7 +733,6 @@
 	margin-left: -3.9169921875em;
 	color: rgba(151, 168, 39, 0.6);
 }
-
 .nf-ntipa-fuel .path1:before {
 	content: "\e6be";
 	color: rgb(255, 255, 255);
@@ -633,7 +817,6 @@
 	margin-left: -3.1669921875em;
 	color: rgb(16, 141, 146);
 }
-
 .nf-ntipa-time .path1:before {
 	content: "\e6d0";
 	color: rgb(255, 255, 255);
@@ -718,63 +901,48 @@
 	margin-left: -3.375em;
 	color: rgb(125, 34, 121);
 }
-
 .nf-allegati:before {
 	content: "\e6c4";
 }
-
 .nf-user_occhiale:before {
 	content: "\e6fb";
 }
-
 .nf-seleziona-bg:before {
 	content: "\e6fc";
 }
-
 .nf-cerca-bg:before {
 	content: "\e6fd";
 }
-
 .nf-modifica:before {
 	content: "\e62b";
 }
-
 .nf-modifica_conversazione:before {
 	content: "\e6f9";
 }
-
 .nf-user_pieno:before {
 	content: "\e6fa";
 }
-
 .nf-letto:before {
 	content: "\e6f3";
 }
-
 .nf-elimina-conversazione:before {
 	content: "\e6f4";
 }
-
 .nf-aggiungi-conversazione:before {
 	content: "\e6f5";
 }
-
 .nf-sottrai:before {
 	content: "\e6f6";
 }
-
 .nf-tel:before {
 	content: "\e6f2";
 }
-
 .nf-lock:before {
 	content: "\e6f1";
 }
-
 .nf-upload-db-dropdown:before {
 	content: "\e611";
 }
-
 .nf-ntipa-marchio .path1:before {
 	content: "\e6eb";
 	color: rgb(255, 255, 255);
@@ -799,416 +967,312 @@
 	margin-left: -0.6669921875em;
 	color: rgba(12, 119, 184, 0.7);
 }
-
 .nf-file-foglio-calcolo:before {
 	content: "\e6d1";
 }
-
 .nf-file-testo:before {
 	content: "\e6d2";
 }
-
 .nf-file-presentazione:before {
 	content: "\e6d3";
 }
-
 .nf-file-video:before {
 	content: "\e6d4";
 }
-
 .nf-file-audio:before {
 	content: "\e6d5";
 }
-
 .nf-file-codice:before {
 	content: "\e6d6";
 }
-
 .nf-file-excel:before {
 	content: "\e6d7";
 }
-
 .nf-file-word:before {
 	content: "\e6d8";
 }
-
 .nf-file-powerpoint:before {
 	content: "\e6d9";
 }
-
 .nf-file-musicale:before {
 	content: "\e6da";
 }
-
 .nf-file-immagine:before {
 	content: "\e6db";
 }
-
 .nf-file-protocollo:before {
 	content: "\e6dc";
 }
-
 .nf-formato-sconosciuto:before {
 	content: "\e6dd";
 }
-
 .nf-file-zip:before {
 	content: "\e6de";
 }
-
 .nf-cartella-zip:before {
 	content: "\e6df";
 }
-
 .nf-cartella:before {
 	content: "\e6e0";
 }
-
 .nf-aggiorna:before {
 	content: "\e600";
 }
-
 .nf-aggiungi-cartella:before {
 	content: "\e601";
 }
-
 .nf-aggiungi:before {
 	content: "\e602";
 }
-
 .nf-amministrazione:before {
 	content: "\e604";
 }
-
 .nf-anno-registro:before {
 	content: "\e605";
 }
-
 .nf-annulla-tutto:before {
 	content: "\e606";
 }
-
 .nf-annulla:before {
 	content: "\e607";
 }
-
 .nf-anteprime:before {
 	content: "\e608";
 }
-
 .nf-apri-modifica:before {
 	content: "\e609";
 }
-
 .nf-attivita:before {
 	content: "\e60a";
 }
-
 .nf-audit:before {
 	content: "\e60b";
 }
-
 .nf-azioni:before {
 	content: "\e60c";
 }
-
 .nf-cancellazione:before {
 	content: "\e60d";
 }
-
 .nf-cerca-fascicolo:before {
 	content: "\e60e";
 }
-
 .nf-cerca:before {
 	content: "\e60f";
 }
-
 .nf-certificati:before {
 	content: "\e610";
 }
-
 .nf-cestino:before {
 	content: "\e62d";
 }
-
 .nf-check:before {
 	content: "\e612";
 }
-
 .nf-chiudi:before {
 	content: "\e613";
 }
-
 .nf-condividi:before {
 	content: "\e614";
 }
-
 .nf-conversazione:before {
 	content: "\e615";
 }
-
 .nf-copia:before {
 	content: "\e616";
 }
-
 .nf-crea-fascicolo:before {
 	content: "\e617";
 }
-
 .nf-creazione:before {
 	content: "\e618";
 }
-
 .nf-data-protocollo:before {
 	content: "\e619";
 }
-
 .nf-deseleziona:before {
 	content: "\e61a";
 }
-
 .nf-down:before {
 	content: "\e61b";
 }
-
 .nf-download:before {
 	content: "\e61c";
 }
-
 .nf-fascicolo:before {
 	content: "\e61d";
 }
-
 .nf-filtro:before {
 	content: "\e61e";
 }
-
 .nf-gestione-pec:before {
 	content: "\e61f";
 }
-
 .nf-grafico:before {
 	content: "\e620";
 }
-
 .nf-griglia:before {
 	content: "\e621";
 }
-
 .nf-help:before {
 	content: "\e622";
 }
-
 .nf-home:before {
 	content: "\e623";
 }
-
 .nf-impostazioni:before {
 	content: "\e624";
 }
-
 .nf-incolla:before {
 	content: "\e625";
 }
-
 .nf-info:before {
 	content: "\e626";
 }
-
 .nf-left:before {
 	content: "\e627";
 }
-
 .nf-lista:before {
 	content: "\e628";
 }
-
 .nf-log-out:before {
 	content: "\e629";
 }
-
 .nf-metrics:before {
 	content: "\e62a";
 }
-
 .nf-notifiche:before {
 	content: "\e62c";
 }
-
 .nf-occhio:before {
 	content: "\e648";
 }
-
 .nf-ordinamento-down:before {
 	content: "\e62e";
 }
-
 .nf-ordinamento-gen-down:before {
 	content: "\e62f";
 }
-
 .nf-ordinamento-gen-up:before {
 	content: "\e630";
 }
-
 .nf-ordinamento-up:before {
 	content: "\e631";
 }
-
 .nf-pagina:before {
 	content: "\e632";
 }
-
 .nf-password:before {
 	content: "\e633";
 }
-
 .nf-pdf:before {
 	content: "\e634";
 }
-
 .nf-pec-letta:before {
 	content: "\e635";
 }
-
 .nf-pec:before {
 	content: "\e636";
 }
-
 .nf-preferito:before {
 	content: "\e637";
 }
-
 .nf-proprieta:before {
 	content: "\e638";
 }
-
 .nf-proprietario:before {
 	content: "\e639";
 }
-
 .nf-protocollo-emergenza:before {
 	content: "\e63a";
 }
-
 .nf-protocollo-entrata:before {
 	content: "\e63b";
 }
-
 .nf-protocollo-interno:before {
 	content: "\e63c";
 }
-
 .nf-protocollo-uscita:before {
 	content: "\e63d";
 }
-
 .nf-protocollo:before {
 	content: "\e63e";
 }
-
 .nf-qr:before {
 	content: "\e63f";
 }
-
 .nf-repertori:before {
 	content: "\e640";
 }
-
 .nf-report-anno:before {
 	content: "\e641";
 }
-
 .nf-report-giorno:before {
 	content: "\e642";
 }
-
 .nf-report-mese:before {
 	content: "\e643";
 }
-
 .nf-revisioni:before {
 	content: "\e644";
 }
-
 .nf-ricerca-avanzata:before {
 	content: "\e645";
 }
-
 .nf-right:before {
 	content: "\e646";
 }
-
 .nf-rinomina:before {
 	content: "\e647";
 }
-
 .nf-salva-db:before {
 	content: "\e655";
 }
-
 .nf-salva:before {
 	content: "\e649";
 }
-
 .nf-scrittura:before {
 	content: "\e64a";
 }
-
 .nf-seleziona:before {
 	content: "\e64b";
 }
-
 .nf-solr:before {
 	content: "\e64c";
 }
-
 .nf-sposta:before {
 	content: "\e64d";
 }
-
 .nf-storico:before {
 	content: "\e64e";
 }
-
 .nf-struttura:before {
 	content: "\e64f";
 }
-
 .nf-tag:before {
 	content: "\e650";
 }
-
 .nf-taglia:before {
 	content: "\e651";
 }
-
 .nf-testo:before {
 	content: "\e652";
 }
-
 .nf-unlock:before {
 	content: "\e653";
 }
-
 .nf-up:before {
 	content: "\e654";
 }
-
 .nf-upload-db:before {
 	content: "\e6f0";
 }
-
 .nf-upload:before {
 	content: "\e656";
 }
-
 .nf-user:before {
 	content: "\e657";
 }
-
 .nf-worklist:before {
 	content: "\e658";
 }
-
